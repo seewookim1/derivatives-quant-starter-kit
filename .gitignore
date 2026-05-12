@@ -49,7 +49,7 @@ reports/
 # Jupyter
 .ipynb_checkpoints/
 
-# Claude Code — 로컬 설정만 무시, 공유 커맨드는 추적
+# Claude Code — 로컬 설정만 무시, 공유 커맨드/에이전트는 추적
 .claude/settings.json
 .claude/settings.local.json
 
